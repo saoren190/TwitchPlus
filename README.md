@@ -4,6 +4,7 @@ Game StreamHub is a web application designed to help users organize their favori
 
 ## Notes
 This is the back-end part of the whole project.
+<img width="1436" alt="Screenshot 2023-09-19 at 11 48 46" src="">
 
 
 Websit Link: [TwitchPlus](https://yd46mne2mt.us-east-2.awsapprunner.com/)
