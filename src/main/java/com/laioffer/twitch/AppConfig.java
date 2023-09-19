@@ -61,4 +61,6 @@ public class AppConfig {
                 .logoutSuccessHandler(new HttpStatusReturningLogoutSuccessHandler(HttpStatus.NO_CONTENT));
         return http.build();
     }
+
+
 }
